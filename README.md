@@ -1,10 +1,3 @@
-# 🎮 Game Master Agent
-
-An interactive AI-powered game system using **Chainlit** and **Gemini AI**, built with **OpenAI Agent SDK logic style**. This project uses **multiple agents and tools with handoff logic** to simulate a mini adventure game.
-
----
-
-
 
 # 🎮 Game Master Agent
 
